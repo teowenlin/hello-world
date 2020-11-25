@@ -1,8 +1,10 @@
 # hello-world
 Hello, world
-Text
-Text
+\n Text
+\n Text
 
 ## Sub-header
 
-Sub-header text text
+Sub-header 
+\n text 
+\n text
