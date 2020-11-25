@@ -1,10 +1,10 @@
 # hello-world
-Hello, world
-\n Text
-\n Text
+Hello, world/n
+Text
+Text
 
 ## Sub-header
 
 Sub-header 
-\n text 
-\n text
+text 
+text
