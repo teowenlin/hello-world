@@ -1,7 +1,7 @@
 # hello-world
-Saying hello to the world
-Placeholder
-Placeholder
+Hello, world
+Text
+Text
 
 ## Sub-header
 
